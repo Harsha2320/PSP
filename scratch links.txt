@@ -1,0 +1,57 @@
+EXPERIMENT NUMBER : 1 TRIANGLE 
+
+https://scratch.mit.edu/projects/521650846/editor
+
+
+
+EXPERIMENTNUMBER:2 SQUARE
+
+https://scratch.mit.edu/projects/521658398/editor
+
+
+
+EXPERIMENT NUMBER: 3 CIRCLE 
+
+https://scratch.mit.edu/projects/521658398/editor
+
+
+
+EXPERIMENT NUMBER: 4 PENTAGON
+
+https://scratch.mit.edu/projects/521655505/editor
+
+
+Project-1 ---Arithmetic operator
+
+https://scratch.mit.edu/projects/524101482/editor/
+
+
+
+Project-2 ---Memory game
+
+https://scratch.mit.edu/projects/528637086
+
+
+project-Memory game
+
+https://scratch.mit.edu/projects/528637086
+
+
+
+1. Write a scratch program in which the sprite will ask for the marks and it will return the grade awarded for the marks in a particular subject.
+
+https://scratch.mit.edu/projects/521894931/editor/
+
+2. Implement the mathematical functions given in the link https://en.scratch-wiki.info/wiki/List_of_Mathematical_Functions_Done_in_Scratch#Common_Constants
+
+https://scratch.mit.edu/projects/521873905/editor/
+
+Design a Python script to sort numbers specified in a text file using lists.(Implement the same using Scratch programming and Raptor tool)
+
+SCRATCH LINK : 
+
+https://scratch.mit.edu/projects/554778815
+
+
+
+
